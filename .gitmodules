@@ -34,3 +34,21 @@
 [submodule "bus/AMBA_AXI_AHB_APB"]
 	path = bus/AMBA_AXI_AHB_APB
 	url = https://github.com/adki/AMBA_AXI_AHB_APB
+[submodule "cache/Verilog-caches"]
+	path = cache/Verilog-caches
+	url = https://github.com/airin711/Verilog-caches.git
+[submodule "cache/4-way-set-associative-cache-verilog"]
+	path = cache/4-way-set-associative-cache-verilog
+	url = https://github.com/rajshadow/4-way-set-associative-cache-verilog.git
+[submodule "cache/iob-cache"]
+	path = cache/iob-cache
+	url = https://github.com/IObundle/iob-cache.git
+[submodule "cache/esp-caches"]
+	path = cache/esp-caches
+	url = https://github.com/sld-columbia/esp-caches.git
+[submodule "cache/block-inclusivecache-sifive"]
+	path = cache/block-inclusivecache-sifive
+	url = https://github.com/sifive/block-inclusivecache-sifive.git
+[submodule "cache/L2_tcdm_hybrid_interco"]
+	path = cache/L2_tcdm_hybrid_interco
+	url = https://github.com/pulp-platform/L2_tcdm_hybrid_interco.git
