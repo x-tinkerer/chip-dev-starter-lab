@@ -52,3 +52,9 @@
 [submodule "cache/L2_tcdm_hybrid_interco"]
 	path = cache/L2_tcdm_hybrid_interco
 	url = https://github.com/pulp-platform/L2_tcdm_hybrid_interco.git
+[submodule "alu/alu-8bit"]
+	path = alu/alu-8bit
+	url = https://github.com/gupta-utkarsh/alu-8bit.git
+[submodule "alu/Floating-Point-ALU-in-Verilog"]
+	path = alu/Floating-Point-ALU-in-Verilog
+	url = https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog.git
