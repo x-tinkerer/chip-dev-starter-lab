@@ -22,3 +22,6 @@
 [submodule "fpu/riscv-fpu"]
 	path = fpu/riscv-fpu
 	url = https://github.com/taneroksuz/riscv-fpu.git
+[submodule "core/rocket"]
+	path = core/rocket
+	url = https://github.com/bigzz/rocket.git
