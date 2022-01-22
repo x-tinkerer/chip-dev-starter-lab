@@ -16,3 +16,9 @@
 [submodule "hybrid/32-Verilog-Mini-Projects"]
 	path = hybrid/32-Verilog-Mini-Projects
 	url = https://github.com/sudhamshu091/32-Verilog-Mini-Projects
+[submodule "fpu/fpu"]
+	path = fpu/fpu
+	url = https://github.com/dawsonjon/fpu.git
+[submodule "fpu/riscv-fpu"]
+	path = fpu/riscv-fpu
+	url = https://github.com/taneroksuz/riscv-fpu.git
