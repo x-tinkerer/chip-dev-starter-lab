@@ -7,3 +7,12 @@
 [submodule "multiplier/Fixed-Floating-Point-Adder-Multiplier"]
 	path = multiplier/Fixed-Floating-Point-Adder-Multiplier
 	url = https://github.com/suoglu/Fixed-Floating-Point-Adder-Multiplier.git
+[submodule "hybrid/Verilog-Projects"]
+	path = hybrid/Verilog-Projects
+	url = https://github.com/nxbyte/Verilog-Projects.git
+[submodule "hybrid/Computer-Architecture"]
+	path = hybrid/Computer-Architecture
+	url = https://github.com/princeofpython/Computer-Architecture.git
+[submodule "hybrid/32-Verilog-Mini-Projects"]
+	path = hybrid/32-Verilog-Mini-Projects
+	url = https://github.com/sudhamshu091/32-Verilog-Mini-Projects
