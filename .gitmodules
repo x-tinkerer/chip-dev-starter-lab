@@ -4,3 +4,6 @@
 [submodule "adder/Digital_Adders_Verilog"]
 	path = adder/Digital_Adders_Verilog
 	url = https://github.com/Ams0x57/Digital_Adders_Verilog
+[submodule "multiplier/Fixed-Floating-Point-Adder-Multiplier"]
+	path = multiplier/Fixed-Floating-Point-Adder-Multiplier
+	url = https://github.com/suoglu/Fixed-Floating-Point-Adder-Multiplier.git
