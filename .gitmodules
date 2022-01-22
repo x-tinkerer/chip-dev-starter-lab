@@ -58,3 +58,6 @@
 [submodule "alu/Floating-Point-ALU-in-Verilog"]
 	path = alu/Floating-Point-ALU-in-Verilog
 	url = https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog.git
+[submodule "soc/rocket-chip"]
+	path = soc/rocket-chip
+	url = https://github.com/chipsalliance/rocket-chip.git
