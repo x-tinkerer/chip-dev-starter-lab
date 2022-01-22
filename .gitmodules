@@ -25,3 +25,12 @@
 [submodule "core/rocket"]
 	path = core/rocket
 	url = https://github.com/bigzz/rocket.git
+[submodule "bus/axi"]
+	path = bus/axi
+	url = https://github.com/pulp-platform/axi.git
+[submodule "bus/apb"]
+	path = bus/apb
+	url = https://github.com/pulp-platform/apb.git
+[submodule "bus/AMBA_AXI_AHB_APB"]
+	path = bus/AMBA_AXI_AHB_APB
+	url = https://github.com/adki/AMBA_AXI_AHB_APB
