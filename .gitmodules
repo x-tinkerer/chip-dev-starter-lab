@@ -61,3 +61,6 @@
 [submodule "soc/rocket-chip"]
 	path = soc/rocket-chip
 	url = https://github.com/chipsalliance/rocket-chip.git
+[submodule "soc/riscv-mini"]
+	path = soc/riscv-mini
+	url = https://github.com/ucb-bar/riscv-mini
