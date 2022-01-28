@@ -1,66 +1,66 @@
 [submodule "adder/Verilog-Adders"]
-	path = adder/Verilog-Adders
+	path = 01_adder/Verilog-Adders
 	url = https://github.com/mongrelgem/Verilog-Adders.git
 [submodule "adder/Digital_Adders_Verilog"]
-	path = adder/Digital_Adders_Verilog
+	path = 01_adder/Digital_Adders_Verilog
 	url = https://github.com/Ams0x57/Digital_Adders_Verilog
 [submodule "multiplier/Fixed-Floating-Point-Adder-Multiplier"]
-	path = multiplier/Fixed-Floating-Point-Adder-Multiplier
+	path = 02_multiplier/Fixed-Floating-Point-Adder-Multiplier
 	url = https://github.com/suoglu/Fixed-Floating-Point-Adder-Multiplier.git
 [submodule "hybrid/Verilog-Projects"]
-	path = hybrid/Verilog-Projects
+	path = 0x_hybrid/Verilog-Projects
 	url = https://github.com/nxbyte/Verilog-Projects.git
 [submodule "hybrid/Computer-Architecture"]
-	path = hybrid/Computer-Architecture
+	path = 0x_hybrid/Computer-Architecture
 	url = https://github.com/princeofpython/Computer-Architecture.git
 [submodule "hybrid/32-Verilog-Mini-Projects"]
-	path = hybrid/32-Verilog-Mini-Projects
+	path = 0x_hybrid/32-Verilog-Mini-Projects
 	url = https://github.com/sudhamshu091/32-Verilog-Mini-Projects
 [submodule "fpu/fpu"]
-	path = fpu/fpu
+	path = 04_fpu/fpu
 	url = https://github.com/dawsonjon/fpu.git
 [submodule "fpu/riscv-fpu"]
-	path = fpu/riscv-fpu
+	path = 04_fpu/riscv-fpu
 	url = https://github.com/taneroksuz/riscv-fpu.git
 [submodule "core/rocket"]
-	path = core/rocket
+	path = 06_core/rocket
 	url = https://github.com/bigzz/rocket.git
 [submodule "bus/axi"]
-	path = bus/axi
+	path = 07_bus/axi
 	url = https://github.com/pulp-platform/axi.git
 [submodule "bus/apb"]
-	path = bus/apb
+	path = 07_bus/apb
 	url = https://github.com/pulp-platform/apb.git
 [submodule "bus/AMBA_AXI_AHB_APB"]
-	path = bus/AMBA_AXI_AHB_APB
+	path = 07_bus/AMBA_AXI_AHB_APB
 	url = https://github.com/adki/AMBA_AXI_AHB_APB
 [submodule "cache/Verilog-caches"]
-	path = cache/Verilog-caches
+	path = 05_cache/Verilog-caches
 	url = https://github.com/airin711/Verilog-caches.git
 [submodule "cache/4-way-set-associative-cache-verilog"]
-	path = cache/4-way-set-associative-cache-verilog
+	path = 05_cache/4-way-set-associative-cache-verilog
 	url = https://github.com/rajshadow/4-way-set-associative-cache-verilog.git
 [submodule "cache/iob-cache"]
-	path = cache/iob-cache
+	path = 05_cache/iob-cache
 	url = https://github.com/IObundle/iob-cache.git
 [submodule "cache/esp-caches"]
-	path = cache/esp-caches
+	path = 05_cache/esp-caches
 	url = https://github.com/sld-columbia/esp-caches.git
 [submodule "cache/block-inclusivecache-sifive"]
-	path = cache/block-inclusivecache-sifive
+	path = 05_cache/block-inclusivecache-sifive
 	url = https://github.com/sifive/block-inclusivecache-sifive.git
 [submodule "cache/L2_tcdm_hybrid_interco"]
-	path = cache/L2_tcdm_hybrid_interco
+	path = 05_cache/L2_tcdm_hybrid_interco
 	url = https://github.com/pulp-platform/L2_tcdm_hybrid_interco.git
 [submodule "alu/alu-8bit"]
-	path = alu/alu-8bit
+	path = 03_alu/alu-8bit
 	url = https://github.com/gupta-utkarsh/alu-8bit.git
 [submodule "alu/Floating-Point-ALU-in-Verilog"]
-	path = alu/Floating-Point-ALU-in-Verilog
+	path = 03_alu/Floating-Point-ALU-in-Verilog
 	url = https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog.git
 [submodule "soc/rocket-chip"]
-	path = soc/rocket-chip
+	path = 08_soc/rocket-chip
 	url = https://github.com/chipsalliance/rocket-chip.git
 [submodule "soc/riscv-mini"]
-	path = soc/riscv-mini
+	path = 08_soc/riscv-mini
 	url = https://github.com/ucb-bar/riscv-mini
