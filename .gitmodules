@@ -26,13 +26,13 @@
 	path = 06_core/rocket
 	url = https://github.com/bigzz/rocket.git
 [submodule "bus/axi"]
-	path = 07_bus/axi
+	path = 07_bus/03_pulp_axi
 	url = https://github.com/pulp-platform/axi.git
 [submodule "bus/apb"]
-	path = 07_bus/apb
+	path = 07_bus/04_pulp_apb
 	url = https://github.com/pulp-platform/apb.git
 [submodule "bus/AMBA_AXI_AHB_APB"]
-	path = 07_bus/AMBA_AXI_AHB_APB
+	path = 07_bus/01_amba_study
 	url = https://github.com/adki/AMBA_AXI_AHB_APB
 [submodule "cache/Verilog-caches"]
 	path = 05_cache/Verilog-caches
@@ -65,5 +65,5 @@
 	path = 08_soc/riscv-mini
 	url = https://github.com/ucb-bar/riscv-mini
 [submodule "07_bus/gen_amba_2021"]
-	path = 07_bus/gen_amba_2021
+	path = 07_bus/02_gen_amba
 	url = https://github.com/adki/gen_amba_2021.git
