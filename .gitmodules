@@ -64,3 +64,6 @@
 [submodule "soc/riscv-mini"]
 	path = 08_soc/riscv-mini
 	url = https://github.com/ucb-bar/riscv-mini
+[submodule "07_bus/gen_amba_2021"]
+	path = 07_bus/gen_amba_2021
+	url = https://github.com/adki/gen_amba_2021.git
