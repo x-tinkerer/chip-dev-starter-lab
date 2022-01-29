@@ -10,8 +10,10 @@
 
 ## 05. Cache
 
-## 06. Bus
+## 06. Core
 
-## 07. Core
+## 07. Bus
 
 ## 08. SoC
+
+## 0x. Hybrid

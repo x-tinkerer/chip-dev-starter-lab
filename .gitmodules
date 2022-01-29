@@ -1,8 +1,5 @@
-[submodule "adder/Verilog-Adders"]
-	path = 01_adder/01_Adders
-	url = https://github.com/mongrelgem/Verilog-Adders.git
 [submodule "adder/Digital_Adders_Verilog"]
-	path = 01_adder/02_Adders
+	path = 01_adder/01_32bit_adders
 	url = https://github.com/Ams0x57/Digital_Adders_Verilog
 [submodule "multiplier/Fixed-Floating-Point-Adder-Multiplier"]
 	path = 02_multiplier/Fixed-Floating-Point-Adder-Multiplier
